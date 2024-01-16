@@ -4,6 +4,11 @@
 
 This project extracts essential information from invoice images using user-generated queries and the powerful capabilities of Google AI's Gemini Pro Vision model. It empowers users to seamlessly gather key invoice data without manual extraction efforts.
 
+## 🎥 Video Demo
+Click the image above to watch a demo of the chatbot in action.
+
+[![Model](https://github.com/SumitSuryawanshi123/Chat_Bot/blob/main/Image.png)](https://drive.google.com/file/d/1xzLyWpxVoeqA_n0-r_oUoPebgqHD6KLy/view?usp=sharing)
+
 ## Key Features
 
 - **Query-Driven Data Extraction:** Users can ask natural language questions about invoice contents, eliminating the need for technical knowledge of data extraction processes. 💬
