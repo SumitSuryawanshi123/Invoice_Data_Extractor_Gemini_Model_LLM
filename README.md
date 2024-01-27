@@ -5,9 +5,9 @@
 This project extracts essential information from invoice images using user-generated queries and the powerful capabilities of Google AI's Gemini Pro Vision model. It empowers users to seamlessly gather key invoice data without manual extraction efforts.
 
 ## 🎥 Video Demo
-Click the image  to watch a demo of the project in action.
+Click the image  to try the project implementation.
 
-[![Model](https://github.com/SumitSuryawanshi123/Invoice_Data_Extractor_Gemini_Model_LLM/blob/main/image%20(3).png)](https://drive.google.com/file/d/1xzLyWpxVoeqA_n0-r_oUoPebgqHD6KLy/view?usp=sharing)
+[![Model](https://github.com/SumitSuryawanshi123/Invoice_Data_Extractor_Gemini_Model_LLM/blob/main/image%20(3).png)](https://text-extractors-p0l3.onrender.com/)
 
 ## Key Features
 
