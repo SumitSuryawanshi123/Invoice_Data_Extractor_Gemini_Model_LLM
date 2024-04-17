@@ -50,11 +50,6 @@ You are an expert in understanding images. we will upload a images and
 you will have to answer any questions based on the uploaded image
 """
 
-input_prompt = """ 
-You are an expert in understanding input images. we will upload a image and
-you will have edit image according to input prompt and return edited image in jpg format. use output format {"image":edited image}.
-"""
-
 if submit:
     image_data = input_image_setup(upload_file)
     response = get_gemini_response(input_prompt, image_data, input)
