@@ -59,4 +59,7 @@ if submit:
     image_data = input_image_setup(upload_file)
     response = get_gemini_response(input_prompt, image_data, input)
     st.subheader("The Response is")
-    st.write(response.text)
+    try:
+        st.write(response.text)
+    except:
+        st.error("Error, Try again other query!")
